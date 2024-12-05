@@ -1,7 +1,7 @@
-=== Flamingo Counter ===
+=== Submissions Counter for Flamingo ===
 
 Contributors: interdevel  
-Tags: flamingo, cf7, shortcode
+Tags: counter, flamingo, cf7, shortcode
 Requires at least: 5.3  
 Tested up to: 6.7 
 Requires PHP: 7.4  
@@ -13,7 +13,7 @@ Provides a shortcode to show the number of form submissions stored by Flamingo &
 
 == Description ==
 
-The **Flamingo Counter** provides a simple shortcode that you can use in any page or post to show how many submissions are stored in forms created with Contact Form 7.
+The plugin **Submissions Counter for Flamingo** provides a simple shortcode that you can use in any page or post to show how many submissions are stored in forms created with Contact Form 7.
 
 == Installation ==
 
