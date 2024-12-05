@@ -41,7 +41,7 @@ The plugin provides the shortcode `[flamingo_counter]` that can be used in any p
 == Changelog ==
 
 = 1.0.0 =
-* Initial release of the Flamingo Counter plugin.
+* Initial release of the _Submissions Counter for Flamingo_ plugin.
 
 == Upgrade Notice ==
 
