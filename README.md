@@ -1,13 +1,13 @@
 === Submissions Counter for Flamingo ===
 
-Contributors: interdevel  
+Contributors: interdevel
 Tags: counter, flamingo, cf7, shortcode
-Requires at least: 5.3  
-Tested up to: 6.7 
-Requires PHP: 7.4  
-Stable tag: 1.0.0  
-License: GPL v2 or later  
-License URI: https://www.gnu.org/licenses/gpl-2.0.html  
+Requires at least: 5.3
+Tested up to: 6.7
+Requires PHP: 7.4
+Stable tag: 1.0.1
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Provides a shortcode to display the number of form submissions stored by Flamingo & Contact Form 7.
 
