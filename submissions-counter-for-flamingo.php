@@ -57,9 +57,9 @@ function fsc_count_flamingo_submissions($atts) {
     if (false !== $q) {
         $htmltag = sanitize_text_field($atts['html_tag']);
         if ( empty($htmltag)) {
-            return $q;
+            return esc_html($q);
         } else {
-            return "<$htmltag class=\"fsc-count\">$q</$htmltag>";
+            return wp_kses_post("<$htmltag class=\"fsc-count\">$q</$htmltag>");
         }
     }
 
