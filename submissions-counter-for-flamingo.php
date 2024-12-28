@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Submissions Counter for Flamingo
  * Description: A shortcode to show the number of form submissions stored by Flamingo & Contact Form 7.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Luis Molina
  * Tags: counter, flamingo, cf7, shortcode
  * License: GPLv2 or later
