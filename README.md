@@ -3,7 +3,7 @@
 Contributors: interdevel
 Tags: counter, flamingo, cf7, shortcode
 Requires at least: 5.3
-Tested up to: 6.7
+Tested up to: 6.9
 Requires PHP: 7.4
 Stable tag: 1.0.2
 License: GPL v2 or later
@@ -43,6 +43,7 @@ The plugin provides the shortcode `[flamingo_count]` that can be used in any pag
 = 1.0.2 =
 
 * Minor changes and fixes.
+* Confirmed WordPress 6.9 compatibility.
 
 = 1.0.1 =
 

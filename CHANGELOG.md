@@ -9,9 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.2] - 2026-05-09
 
-### Fixed
+### Changed
 
 - Minor changes and fixes.
+- Confirmed WordPress 6.9 compatibility.
 
 ## [1.0.1] - 2024-01-01
 
