@@ -3,9 +3,9 @@
 Contributors: interdevel
 Tags: counter, flamingo, cf7, shortcode
 Requires at least: 5.3
-Tested up to: 6.7
+Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ Provides a shortcode to display the number of form submissions stored by Flaming
 
 == Description ==
 
-The plugin **Submissions Counter for Flamingo** provides a simple shortcode `[flamingo_counter]` that you can use in any page or post to display how many submissions are stored in forms created with Contact Form 7.
+The plugin **Submissions Counter for Flamingo** provides a simple shortcode `[flamingo_count]` that you can use in any page or post to display how many submissions are stored in forms created with Contact Form 7.
 
 Allowed parameters (can be combined):
 
@@ -22,9 +22,9 @@ Allowed parameters (can be combined):
 
 Use cases with allowed parameters:
 
-* `[flamingo_counter]`: Display the total number of submissions stored in the Flamingo database, i.e. the sum of submissions from all the forms you have on your site.
-* `[flamingo_counter form_title="Contact Form 1"]`: Display the number of submissions stored in the Flamingo database for the form named "Contact Form 1".
-* `[flamingo_counter form_title="Contact Form 1" html_tag="span"]`: Display the number of submissions stored in the Flamingo database for the form named "Contact Form 1", wrapped with the `<span>` HTML tag.
+* `[flamingo_count]`: Display the total number of submissions stored in the Flamingo database, i.e. the sum of submissions from all the forms you have on your site.
+* `[flamingo_count form_title="Contact Form 1"]`: Display the number of submissions stored in the Flamingo database for the form named "Contact Form 1".
+* `[flamingo_count form_title="Contact Form 1" html_tag="span"]`: Display the number of submissions stored in the Flamingo database for the form named "Contact Form 1", wrapped with the `<span>` HTML tag.
 
 == Installation ==
 
@@ -36,14 +36,21 @@ Use cases with allowed parameters:
 
 = How do I use this plugin? =
 
-The plugin provides the shortcode `[flamingo_counter]` that can be used in any page or post.
+The plugin provides the shortcode `[flamingo_count]` that can be used in any page or post.
 
 == Changelog ==
 
+= 1.0.2 =
+
+* Minor changes and fixes.
+* Confirmed WordPress 6.9 compatibility.
+
 = 1.0.1 =
+
 * Better escape shortcode output.
 
 = 1.0.0 =
+
 * Initial release of the _Submissions Counter for Flamingo_ plugin.
 
 == Upgrade Notice ==
